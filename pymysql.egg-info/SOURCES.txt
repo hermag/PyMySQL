@@ -1,0 +1,7 @@
+README.md
+setup.py
+pymysql.egg-info/PKG-INFO
+pymysql.egg-info/SOURCES.txt
+pymysql.egg-info/dependency_links.txt
+pymysql.egg-info/not-zip-safe
+pymysql.egg-info/top_level.txt
